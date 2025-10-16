@@ -1,5 +1,5 @@
-# 💫 About Me:
-🛠 I’m currently working on:<br>Full-stack web development projects and enhancing my frontend skills.<br><br>🤝 I’m looking to collaborate on:<br>React.js and Python-based projects, especially those that help beginners or support local communities.<br><br>🤔 I’m looking for help with:<br>Mastering React concepts and writing efficient Python code.<br><br>🌱 I’m currently learning:<br>React.js and Python.<br><br>💬 Ask me about:<br>Web development, freelancing, tech services, or starting a career in tech from Pakistan.<br><br>⚡ Fun fact:<br>I believe that learning tech and helping others is the best way to grow — and I love turning ideas into action!
+# About Me:
+I’m currently working on:<br>Full-stack web development projects and enhancing my frontend skills.<br><br> I’m looking to collaborate on:<br>React.js and Python-based projects, especially those that help beginners or support local communities.<br><br> I’m looking for help with:<br>Mastering React concepts and writing efficient Python code.<br><br> I’m currently learning:<br>React.js and Python.<br><br> Ask me about:<br>Web development, freelancing, tech services, or starting a career in tech from Pakistan.<br><br> Fun fact:<br>I believe that learning tech and helping others is the best way to grow — and I love turning ideas into action!
 
 
 ## 🌐 Socials:
