@@ -1,96 +1,117 @@
- <div align="center">
+<div align="center">
 
-# Saeed Ali
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080D18,50:102A50,100:1677FF&height=210&section=header&text=Saeed%20Ali&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI-Powered%20Full-Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" />
 
-### AI-Powered Full-Stack Developer
+<a href="https://heysaeed.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/saeedali780">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://www.youtube.com/@saeedtech">YouTube</a> &nbsp;·&nbsp;
+<a href="mailto:saeedaliofficial77@gmail.com">Email</a>
 
-**Building scalable applications, intelligent systems, and meaningful digital products.**
+<br/>
 
-[Portfolio](https://heysaeed.vercel.app) · [LinkedIn](https://www.linkedin.com/in/saeedali780) · [YouTube](https://www.youtube.com/@saeedtech) · [Email](mailto:saeedaliofficial77@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+intelligent+digital+products;Developing+AI-powered+applications;Turning+ideas+into+working+software;Learning%2C+building%2C+and+evolving." alt="Animated introduction" />
 
 </div>
 
-## About
+---
 
-I'm a Computer Science student and AI-Powered Full-Stack Developer from Pakistan, focused on building practical software products and intelligent applications.
+## About Me
 
-Since starting my development journey in 2019, I've worked across web development, e-commerce technology, backend systems, and AI integration.
+I'm **Saeed Ali**, a Computer Science student and AI-Powered Full-Stack Developer from Pakistan.
 
-I enjoy transforming ideas into functional products, exploring modern technologies, and collaborating with people who are passionate about building useful software.
+My journey in technology began in 2019. Today, I focus on developing full-stack applications, integrating artificial intelligence, and building software products that solve practical problems.
 
-- Developing AI-powered and full-stack applications.
-- Building and improving **OrderMint**, an AI-powered retail management platform.
-- Working with the MERN stack, TypeScript, Python, and AI APIs.
-- Exploring software architecture, automation, and collaborative engineering.
+- Building **OrderMint**, an AI-powered retail management and POS platform.
+- Developing applications with JavaScript, TypeScript, React, Node.js, and Python.
+- Exploring AI agents, intelligent automation, and modern software engineering.
+- Interested in open-source development and collaborative product building.
 
-## Areas of Focus
+## What I Do
 
-| Domain | Technologies & Interests |
-|---|---|
-| Frontend Engineering | React, Next.js, TypeScript, Tailwind CSS |
-| Backend Engineering | Node.js, Express.js, Python, REST APIs |
-| Databases | MongoDB, Firebase |
-| AI Development | Gemini API, AI agents, intelligent automation |
-| Engineering Tools | Git, GitHub, Postman, CI/CD |
-| Deployment | Vercel, Render |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Selected Projects
+**Full-Stack Development**
+
+Building responsive applications, backend services, REST APIs, and database-driven systems.
+
+</td>
+<td width="50%" valign="top">
+
+**AI Integration**
+
+Integrating AI models and intelligent features into practical software applications.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Product Development**
+
+Turning concepts into usable products with a focus on functionality and user experience.
+
+</td>
+<td width="50%" valign="top">
+
+**Continuous Learning**
+
+Exploring modern engineering practices, automation, Git workflows, and CI/CD.
+
+</td>
+</tr>
+</table>
+
+## Featured Projects
 
 ### OrderMint
 **AI-Powered Retail Management & POS System**
 
-Building a modern retail management solution that helps businesses manage inventory, sales, orders, and business insights through an integrated platform.
+A retail technology platform for inventory management, sales tracking, order processing, analytics, and AI-powered business insights.
 
-[Live Application](https://order-mint-phi.vercel.app)
+[Explore Live Application](https://order-mint-phi.vercel.app)
 
 ### Pakistan Legal Rights Agent
-**AI-Powered Legal Information Assistant**
+**AI-Powered Legal Assistance**
 
-Contributing to an AI-based legal assistance project focused on accessible legal information and evidence-grounded responses.
+An AI-based legal technology project focused on accessible legal information and evidence-grounded responses.
 
-[GitHub Repository](https://github.com/Aishasiddiqui97/Pakistan-legal-Rights-agent)
+[Explore GitHub Repository](https://github.com/Aishasiddiqui97/Pakistan-legal-Rights-agent)
 
-### Personal Developer Portfolio
-**Projects · Experience · Technical Journey**
-
-A personal platform showcasing my software development work, projects, and technical milestones.
+### Developer Portfolio
+A personal portfolio showcasing my technical journey, selected projects, and professional milestones.
 
 [Visit Portfolio](https://heysaeed.vercel.app)
 
-## Technical Skills
+## Technologies & Tools
 
 <div align="center">
 
-**Programming Languages**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,html,css" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css&theme=dark" />
 
-**Frontend Development**
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma&theme=dark" />
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" />
 
 </div>
 
-## GitHub Statistics
+## GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/saeedali780">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saeedali780&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/saeedali780">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedali780&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saeedali780&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedali780&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 <br/><br/>
 
@@ -98,40 +119,45 @@ A personal platform showcasing my software development work, projects, and techn
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saeedali780&theme=github-compact&hide_border=true&area=true" />
+### Contribution Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saeedali780&bg_color=0d1117&color=58a6ff&line=1677ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 
 </div>
 
-## Certifications & Professional Learning
+## Certifications & Learning
 
-- **SMIT** — Web & App Development (MERN Stack)
-- **PITP** — Certified Python Developer
-- **Google** — AI and Data Analytics Learning
-- **Cisco** — JavaScript Essentials
-- **Microsoft** — AI for Everyday Tasks
+- SMIT — Web & App Development (MERN Stack)
+- PITP — Certified Python Developer
+- Google — AI and Data Analytics
+- Cisco — JavaScript Essentials
+- Microsoft — AI for Everyday Tasks
 
-## Community & Content
+## Beyond Development
 
-Beyond software development, I enjoy sharing technical knowledge and contributing to learning communities.
+I also create technology-focused content through **SaeedTech**, where I share programming and technology knowledge.
 
-- **SaeedTech:** Technology and programming content on [YouTube](https://www.youtube.com/@saeedtech).
-- **Developer Collaboration:** Interested in collaborative projects, open-source development, and practical learning.
-- **Continuous Learning:** Exploring emerging technologies and applying them to real-world problems.
-
----
+I believe in collaborative learning, building practical projects, and helping others enter the world of technology.
 
 <div align="center">
 
-### Let's Connect
+---
 
-Open to meaningful collaborations, interesting projects, and opportunities to build impactful technology.
+### Let's Build Something Meaningful
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/saeedali780)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/saeedali780)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saeedaliofficial77@gmail.com)
+<a href="https://www.linkedin.com/in/saeedali780">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-1677FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:saeedaliofficial77@gmail.com">
+<img src="https://img.shields.io/badge/Email-Get%20in%20Touch-30363D?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<br/>
+<br/><br/>
 
-<sub>Building with purpose. Learning continuously. Engineering for impact.</sub>
+<img src="https://komarev.com/ghpvc/?username=saeedali780&label=Profile%20Views&color=1677FF&style=flat-square" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1677FF,50:102A50,100:080D18&height=100&section=footer" />
 
 </div>
