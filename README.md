@@ -21,19 +21,13 @@
 <img src="https://img.shields.io/badge/CONTACT-00BCD4?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/><br/>
-
-<img src="https://github.com/saeedali780.png" width="145" style="border-radius:50%;" alt="Saeed Ali" />
-
-<br/>
-
-**Computer Science Student · Developer · Product Builder**
+<br/
 
 </div>
 
 ---
 
-## 01 / Introduction
+## 01 Introduction
 
 Hi, I'm **Saeed Ali**, an AI-Powered Full-Stack Developer from Pakistan.
 
@@ -49,7 +43,7 @@ Currently focused on:
 - Improving software architecture and engineering practices.
 - Collaborating with developers and contributing to meaningful projects.
 
-## 02 / Featured Work
+## 02 Featured Work
 
 <div align="center">
 
@@ -89,7 +83,7 @@ A personal showcase of my technical journey, products, projects, experience, and
 
 </div>
 
-## 03 / Technical Expertise
+## 03 Technical Expertise
 
 <div align="center">
 
@@ -111,7 +105,7 @@ A personal showcase of my technical journey, products, projects, experience, and
 
 </div>
 
-## 04 / GitHub Analytics
+## 04 GitHub Analytics
 
 <div align="center">
 
@@ -129,7 +123,7 @@ A personal showcase of my technical journey, products, projects, experience, and
 
 </div>
 
-## 05 / Certifications & Learning
+## 05 Certifications & Learning
 
 | Organization | Certification / Learning |
 |---|---|
@@ -139,7 +133,7 @@ A personal showcase of my technical journey, products, projects, experience, and
 | Cisco | JavaScript Essentials |
 | Microsoft | AI for Everyday Tasks |
 
-## 06 / Experience Beyond Code
+## 06 Experience Beyond Code
 
 **Product Development**
 
