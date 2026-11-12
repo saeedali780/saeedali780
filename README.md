@@ -21,7 +21,6 @@
 <img src="https://img.shields.io/badge/CONTACT-00BCD4?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/
 
 </div>
 
