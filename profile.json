@@ -1,0 +1,90 @@
+{
+  "_about": "Hand-kept facts for the profile. Numbers that change by themselves (contributions, streaks, repos, stars, downloads) are fetched by scripts/fetch.py and never typed here.",
+  "user": "saeedali780",
+  "name": "Saeed Ali",
+  "short_name": "Saeed",
+  "login_name": "saeed",
+  "role": "frontend developer",
+  "host": "karachi",
+  "created": {
+    "value": "2024-06-11",
+    "source": "GitHub API users/saeedali780, created_at",
+    "as_of": "2026-11-26"
+  },
+  "tagline": {
+    "value": "Frontend developer building AI-powered web apps and modern digital products.",
+    "source": "heysaeed.vercel.app",
+    "as_of": "2026-11-26"
+  },
+  "links": {
+    "site": {"label": "heysaeed.vercel.app", "handle": "", "url": "https://heysaeed.vercel.app/"},
+    "github": {"label": "GitHub", "handle": "saeedali780", "url": "https://github.com/saeedali780"},
+    "linkedin": {"label": "LinkedIn", "handle": "saeedali780", "url": "https://www.linkedin.com/in/saeedali780"},
+    "x": {"label": "X", "handle": "@SaeedAli780", "url": "https://x.com/SaeedAli780"}
+  },
+  "location": {
+    "value": "Karachi, Pakistan",
+    "source": "github.com/saeedali780 profile",
+    "as_of": "2026-11-26"
+  },
+  "apps": [
+    {
+      "id": "ordermint",
+      "name": "OrderMint",
+      "icon": "icons/ordermint.png",
+      "line": "AI-powered retail management system and live POS platform.",
+      "status": "live platform",
+      "chips": [["Next.js", "lx"], ["Executive AI", "bd"], ["Retail POS", "x"]],
+      "fact": ["Founder Project", "Live Sync", "Next.js"],
+      "tint": "lx",
+      "url": "https://order-mint-phi.vercel.app/"
+    },
+    {
+      "id": "legalrights",
+      "name": "Legal Rights Agent",
+      "icon": "icons/legalrights.png",
+      "line": "AI-powered citizen legal assistant grounded in statutory acts.",
+      "status": "live assistant",
+      "chips": [["AI Agent", "lx"], ["Statutory AI", "bd"], ["Tailwind", "li"]],
+      "fact": ["Citizen Assistant", "AI Architecture", "Next.js"],
+      "tint": "bd",
+      "url": "https://pakistan-legal-rights-agent.vercel.app/"
+    },
+    {
+      "id": "chatbot",
+      "name": "Honest AI Chatbot",
+      "icon": "icons/chatbot.png",
+      "line": "A quirky AI chatbot built with React and Google Gemini AI.",
+      "status": "active app",
+      "chips": [["React", "rd"], ["Gemini AI", "yt"], ["Vite", "li"]],
+      "fact": ["stars", "Gemini AI", "React"],
+      "tint": "rd",
+      "url": "https://saeedsgpt.netlify.app/",
+      "repo": "React-Projects"
+    },
+    {
+      "id": "tiktok",
+      "name": "TikTok Downloader",
+      "icon": "icons/tiktok.png",
+      "line": "Fast video downloader with responsive UI and API integration.",
+      "status": "open source",
+      "chips": [["React", "li"], ["RapidAPI", "yt"], ["Mobile First", "x"]],
+      "fact": ["stars", "Open Source", "React"],
+      "tint": "li",
+      "url": "https://video-downloader-tiktok.netlify.app/",
+      "repo": "tik-tok-video-downloader"
+    }
+  ],
+  "more": [
+    {"name": "Food Recipe App", "url": "https://foodiesee.netlify.app/"},
+    {"name": "SMIT Quiz Results", "url": "https://smitquizresults.netlify.app/"},
+    {"name": "Digital Agency", "url": "https://saeedali780.github.io/MyClubCartAgency/"},
+    {"name": "React Blog", "url": "https://github.com/saeedali780/MyBlogUsingReactJS"}
+  ],
+  "now": [
+    "Scaling OrderMint: intelligent retail inventory & live POS",
+    "Building AI agent tools & exploring autonomous workflows",
+    "Crafting performant web experiences with Next.js & React"
+  ],
+  "now_source": "the owner's current work, read 26 Nov 2026"
+}

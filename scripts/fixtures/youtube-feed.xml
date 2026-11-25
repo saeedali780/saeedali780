@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCYQo00czDdFJ3EnYxt2_SzA"/>
+ <id>yt:channel:YQo00czDdFJ3EnYxt2_SzA</id>
+ <yt:channelId>YQo00czDdFJ3EnYxt2_SzA</yt:channelId>
+ <title>ZazaG Dev</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCYQo00czDdFJ3EnYxt2_SzA"/>
+ <author>
+  <name>ZazaG Dev</name>
+  <uri>https://www.youtube.com/channel/UCYQo00czDdFJ3EnYxt2_SzA</uri>
+ </author>
+ <published>2026-09-14T21:15:56+00:00</published>
+ <entry>
+  <id>yt:video:B3FzNbiw3_Q</id>
+  <yt:videoId>B3FzNbiw3_Q</yt:videoId>
+  <yt:channelId>UCYQo00czDdFJ3EnYxt2_SzA</yt:channelId>
+  <title>I finally submitted my game to the App Store</title>
+  <link rel="alternate" href="https://www.youtube.com/shorts/B3FzNbiw3_Q"/>
+  <author>
+   <name>ZazaG Dev</name>
+   <uri>https://www.youtube.com/channel/UCYQo00czDdFJ3EnYxt2_SzA</uri>
+  </author>
+  <published>2026-11-06T20:00:37+00:00</published>
+  <updated>2026-11-09T23:40:43+00:00</updated>
+  <media:group>
+   <media:title>I finally submitted my game to the App Store</media:title>
+   <media:content url="https://www.youtube.com/v/B3FzNbiw3_Q?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/B3FzNbiw3_Q/hqdefault.jpg" width="480" height="360"/>
+   <media:description>I finally submitted Programmer Simulator, my pixel art coding tycoon game, to the App Store. Now we just wait!
+
+All my links: https://linktr.ee/ZazaGDev
+
+#gamedev #indiegame #solodev
+
+Credits
+Music: original, made for this video.</media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="234"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:aOOYyQm7Amg</id>
+  <yt:videoId>aOOYyQm7Amg</yt:videoId>
+  <yt:channelId>UCYQo00czDdFJ3EnYxt2_SzA</yt:channelId>
+  <title>Every home in my game from garage to penthouse</title>
+  <link rel="alternate" href="https://www.youtube.com/shorts/aOOYyQm7Amg"/>
+  <author>
+   <name>ZazaG Dev</name>
+   <uri>https://www.youtube.com/channel/UCYQo00czDdFJ3EnYxt2_SzA</uri>
+  </author>
+  <published>2026-10-31T20:00:19+00:00</published>
+  <updated>2026-11-04T02:17:30+00:00</updated>
+  <media:group>
+   <media:title>Every home in my game from garage to penthouse</media:title>
+   <media:content url="https://www.youtube.com/v/aOOYyQm7Amg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/aOOYyQm7Amg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>How your house scales with your net worth in my Programmer Simulator game.
+
+All my links: https://linktr.ee/ZazaGDev
+
+#gamedev #indiegame #pixelart</media:description>
+   <media:community>
+    <media:starRating count="4" average="5.00" min="1" max="5"/>
+    <media:statistics views="117"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:FyE-mLvAvmw</id>
+  <yt:videoId>FyE-mLvAvmw</yt:videoId>
+  <yt:channelId>UCYQo00czDdFJ3EnYxt2_SzA</yt:channelId>
+  <title>Code, Ship, Sleep, Repeat!</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=FyE-mLvAvmw"/>
+  <author>
+   <name>ZazaG Dev</name>
+   <uri>https://www.youtube.com/channel/UCYQo00czDdFJ3EnYxt2_SzA</uri>
+  </author>
+  <published>2026-10-29T19:00:10+00:00</published>
+  <updated>2026-11-19T20:00:13+00:00</updated>
+  <media:group>
+   <media:title>Code, Ship, Sleep, Repeat!</media:title>
+   <media:content url="https://www.youtube.com/v/FyE-mLvAvmw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/FyE-mLvAvmw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Solo dev episode #10
+
+Programmer Simulator game coming soon! Cozy, pixel art, tycoon game. Follow along 😊
+
+All my links: https://linktr.ee/ZazaGDev
+
+#gamedev #indiegame #pixelart
+
+0:00 In this episode
+0:17 Playing my game before release
+0:32 Making my coder
+0:46 The first app
+1:29 The bug minigame
+1:52 First launch and first followers
+2:17 Skills
+2:37 The second app
+2:53 Please be a huge success
+3:48 Day 3: five more apps
+4:29 Level 5 unlocks games
+5:13 Out of energy and tokens
+5:51 End of the first week
+7:05 Week 2 trends and proficiency
+8:11 Running banner ads
+8:41 $1,000 a day for the first time
+9:11 90 followers from one post
+9:50 A bigger token plan
+10:10 Comfort and max energy
+10:38 Moving to a small apartment
+11:13 Trends I can't afford yet
+11:49 Furniture for comfort
+12:34 Learning iOS
+12:53 A buddy and a better bed
+13:19 More app slots
+13:53 Updating old apps
+15:05 Moving to a bigger apartment
+15:45 Build mode</media:description>
+   <media:community>
+    <media:starRating count="13" average="5.00" min="1" max="5"/>
+    <media:statistics views="321"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Es5I4_vW1QQ</id>
+  <yt:videoId>Es5I4_vW1QQ</yt:videoId>
+  <yt:channelId>UCYQo00czDdFJ3EnYxt2_SzA</yt:channelId>
+  <title>From family Garage to Penthouse</title>
+  <link rel="alternate" href="https://www.youtube.com/shorts/Es5I4_vW1QQ"/>
+  <author>
+   <name>ZazaG Dev</name>
+   <uri>https://www.youtube.com/channel/UCYQo00czDdFJ3EnYxt2_SzA</uri>
+  </author>
+  <published>2026-10-28T00:00:24+00:00</published>
+  <updated>2026-10-28T19:02:00+00:00</updated>
+  <media:group>
+   <media:title>From family Garage to Penthouse</media:title>
+   <media:content url="https://www.youtube.com/v/Es5I4_vW1QQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/Es5I4_vW1QQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Programmer Simulator game coming soon! Cozy, pixel art, tycoon game.
+
+All my links: https://linktr.ee/ZazaGDev
+
+#gamedev #indiegame #pixelart</media:description>
+   <media:community>
+    <media:starRating count="9" average="5.00" min="1" max="5"/>
+    <media:statistics views="41"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Lzcbghebw3s</id>
+  <yt:videoId>Lzcbghebw3s</yt:videoId>
+  <yt:channelId>UCYQo00czDdFJ3EnYxt2_SzA</yt:channelId>
+  <title>My AI setup: the top 10 tools I actually use</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Lzcbghebw3s"/>
+  <author>
+   <name>ZazaG Dev</name>
+   <uri>https://www.youtube.com/channel/UCYQo00czDdFJ3EnYxt2_SzA</uri>
+  </author>
+  <published>2026-10-25T16:00:18+00:00</published>
+  <updated>2026-10-25T16:00:19+00:00</updated>
+  <media:group>
+   <media:title>My AI setup: the top 10 tools I actually use</media:title>
+   <media:content url="https://www.youtube.com/v/Lzcbghebw3s?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/Lzcbghebw3s/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Solo dev episode #9
+
+FocusShell: https://github.com/ZazaGdev/FocusShell
+
+My Claude Code setup, ranked by what I actually used over the last 8 weeks. I counted my own Claude Code logs and ranked the ten skills, plugins, agents and habits that did the most work.
+
+All my links: https://linktr.ee/ZazaGDev
+
+#claudecode #solodev #aicoding
+
+0:00 Intro
+0:10 How heavy a Claude user am I?
+0:52 #10 Post skills
+1:16 #9 legal-counsel
+1:34 #8 context7
+1:51 #7 Channel skills
+2:09 #6 Reviewer agents
+2:24 #5 superpowers
+3:04 #4 Guard hooks
+3:33 #3 Research method
+4:21 #2 Playwright
+5:04 #1 The FocusShell team
+6:08 Always on: the rules
+7:43 Wrap-up</media:description>
+   <media:community>
+    <media:starRating count="9" average="5.00" min="1" max="5"/>
+    <media:statistics views="54"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:L4W4OwbNsqw</id>
+  <yt:videoId>L4W4OwbNsqw</yt:videoId>
+  <yt:channelId>UCYQo00czDdFJ3EnYxt2_SzA</yt:channelId>
+  <title>From a garage to a penthouse in Programmer Simulator</title>
+  <link rel="alternate" href="https://www.youtube.com/shorts/L4W4OwbNsqw"/>
+  <author>
+   <name>ZazaG Dev</name>
+   <uri>https://www.youtube.com/channel/UCYQo00czDdFJ3EnYxt2_SzA</uri>
+  </author>
+  <published>2026-10-24T20:00:03+00:00</published>
+  <updated>2026-10-27T23:24:44+00:00</updated>
+  <media:group>
+   <media:title>From a garage to a penthouse in Programmer Simulator</media:title>
+   <media:content url="https://www.youtube.com/v/L4W4OwbNsqw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/L4W4OwbNsqw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>From a garage with 100 dollars to a 187.5 million dollar penthouse in Programmer Simulator, the mobile game I'm making about successful developer life. 
+
+And yes, there's clipping: in most of the homes the cat stands right inside the coder's legs, and the coder sinks into the furniture now and then. It's an early build, and that gets fixed before release. 
+
+All my links: https://linktr.ee/ZazaGDev
+
+#gamedev #indiegame #vibecoding</media:description>
+   <media:community>
+    <media:starRating count="9" average="5.00" min="1" max="5"/>
+    <media:statistics views="143"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:G-I5YSrhsy8</id>
+  <yt:videoId>G-I5YSrhsy8</yt:videoId>
+  <yt:channelId>UCYQo00czDdFJ3EnYxt2_SzA</yt:channelId>
+  <title>Vibe coding a mobile game about vibe coding</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=G-I5YSrhsy8"/>
+  <author>
+   <name>ZazaG Dev</name>
+   <uri>https://www.youtube.com/channel/UCYQo00czDdFJ3EnYxt2_SzA</uri>
+  </author>
+  <published>2026-10-22T19:00:33+00:00</published>
+  <updated>2026-10-25T21:34:23+00:00</updated>
+  <media:group>
+   <media:title>Vibe coding a mobile game about vibe coding</media:title>
+   <media:content url="https://www.youtube.com/v/G-I5YSrhsy8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/G-I5YSrhsy8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Solo dev episode #8
+
+I'm making my first mobile game, and it's a game about modern dev life. You play a developer who starts in the family garage, follows the trends and builds apps with an AI coding agent that runs on a token budget, like a real subscription.
+
+This week of my 30-day challenge (one app a week, after Editbay and FocusShell) is a mobile game, made in Unity with Claude. In this episode I play the first version: the character, a build session with a bug-whack round, a launch with a 10% chance of a huge success, the stats row, night energy and the first in-game income.
+
+Editbay: https://github.com/ZazaGdev/editbay
+FocusShell: https://github.com/ZazaGdev/FocusShell
+The 30-day challenge: https://zazag.dev/challenges/30-days/
+
+All my links: https://linktr.ee/ZazaGDev
+
+#solodev #gamedev #vibecoding
+
+0:00 In this episode
+0:17 My first mobile game
+0:40 The game: Vibe Coder Simulator
+1:04 Playing the first version
+2:50 A 10% chance at a huge success
+3:07 The stats row and the token budget
+4:19 Building with FocusShell
+4:35 The first house designs
+5:21 Let Claude brainstorm the visuals first
+6:13 Vibe coding the new house designs
+7:11 Villa and penthouse
+7:51 Would you play it?</media:description>
+   <media:community>
+    <media:starRating count="12" average="5.00" min="1" max="5"/>
+    <media:statistics views="186"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:bHzlOVRavDg</id>
+  <yt:videoId>bHzlOVRavDg</yt:videoId>
+  <yt:channelId>UCYQo00czDdFJ3EnYxt2_SzA</yt:channelId>
+  <title>AI Agent turned into CAVEMAN</title>
+  <link rel="alternate" href="https://www.youtube.com/shorts/bHzlOVRavDg"/>
+  <author>
+   <name>ZazaG Dev</name>
+   <uri>https://www.youtube.com/channel/UCYQo00czDdFJ3EnYxt2_SzA</uri>
+  </author>
+  <published>2026-10-21T23:00:18+00:00</published>
+  <updated>2026-11-21T02:12:23+00:00</updated>
+  <media:group>
+   <media:title>AI Agent turned into CAVEMAN</media:title>
+   <media:content url="https://www.youtube.com/v/bHzlOVRavDg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/bHzlOVRavDg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>This skill makes your AI talk like a caveman, and it has 113,000 GitHub stars. Here is how the caveman skill went viral, and what people who measured it found about the savings.
+
+Want a smaller bill? Ask your AI for short answers.
+
+All my links: https://linktr.ee/ZazaGDev
+
+#caveman #claudecode #aicoding</media:description>
+   <media:community>
+    <media:starRating count="8" average="5.00" min="1" max="5"/>
+    <media:statistics views="37"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:JnG_vtOI74k</id>
+  <yt:videoId>JnG_vtOI74k</yt:videoId>
+  <yt:channelId>UCYQo00czDdFJ3EnYxt2_SzA</yt:channelId>
+  <title>The AI tool everybody's talking about</title>
+  <link rel="alternate" href="https://www.youtube.com/shorts/JnG_vtOI74k"/>
+  <author>
+   <name>ZazaG Dev</name>
+   <uri>https://www.youtube.com/channel/UCYQo00czDdFJ3EnYxt2_SzA</uri>
+  </author>
+  <published>2026-10-21T00:00:17+00:00</published>
+  <updated>2026-11-22T00:10:32+00:00</updated>
+  <media:group>
+   <media:title>The AI tool everybody's talking about</media:title>
+   <media:content url="https://www.youtube.com/v/JnG_vtOI74k?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/JnG_vtOI74k/hqdefault.jpg" width="480" height="360"/>
+   <media:description>An AI tool for reverse engineering went from 1,500 to 322,000 GitHub stars in two weeks. It's called REA, Reverse Engineer Anything, and it lets your coding agent take an app apart.
+
+All my links: https://linktr.ee/ZazaGDev
+
+#reverseengineering #aiagents #aicoding</media:description>
+   <media:community>
+    <media:starRating count="12" average="5.00" min="1" max="5"/>
+    <media:statistics views="278"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:t_WVO-hzF2w</id>
+  <yt:videoId>t_WVO-hzF2w</yt:videoId>
+  <yt:channelId>UCYQo00czDdFJ3EnYxt2_SzA</yt:channelId>
+  <title>How I code in 4 projects at once without losing my mind</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=t_WVO-hzF2w"/>
+  <author>
+   <name>ZazaG Dev</name>
+   <uri>https://www.youtube.com/channel/UCYQo00czDdFJ3EnYxt2_SzA</uri>
+  </author>
+  <published>2026-10-18T23:30:17+00:00</published>
+  <updated>2026-10-18T23:30:17+00:00</updated>
+  <media:group>
+   <media:title>How I code in 4 projects at once without losing my mind</media:title>
+   <media:content url="https://www.youtube.com/v/t_WVO-hzF2w?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/t_WVO-hzF2w/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Solo dev episode #7
+
+FocusShell on GitHub: https://github.com/ZazaGdev/FocusShell
+
+FocusShell is a free, open-source app for managing AI coding agents across multiple projects from one window. One CTO agent reads your task board and hands the work to a lead agent in each project, and this video walks through all of it.
+
+I renamed it from AgentDeck after recording, so you will hear the old name; the on-screen labels show the new one. The video covers setting it up with four demo projects, asking the CTO to pick up work, the coding view with the CTO and four project leads, questions that wait for your answer, the layout, reading files in the app and sketching with Excalidraw. It runs Claude Code sessions in each terminal.
+
+All my links: https://linktr.ee/ZazaGDev
+
+0:00 FocusShell is open source
+0:17 Setup: pick projects, check Claude Code
+0:44 The board, the CTO and the Self hub
+1:08 Why one CTO for many projects
+1:43 Asking the CTO to pick up the work
+2:08 The coding view: the CTO hands out work
+2:52 The leads get their briefs
+3:28 The core: one chat with the CTO
+3:56 Waiting on you: answer the leads
+5:13 The Missed panel
+5:52 Status at a glance
+6:07 Layouts and navigation
+6:45 Built-in VS Code for files
+7:17 Sketches with Excalidraw
+8:11 The board and its filters
+8:31 Answering a task from the board
+9:15 The CTO keeps the board updated
+9:41 The Self sidebar
+10:12 Project groups with their own CTO
+11:10 The Tavern
+12:43 Settings
+13:55 Plugins and what comes next
+14:23 Wrapping up</media:description>
+   <media:community>
+    <media:starRating count="16" average="5.00" min="1" max="5"/>
+    <media:statistics views="481"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:SmqtJ_jkqVE</id>
+  <yt:videoId>SmqtJ_jkqVE</yt:videoId>
+  <yt:channelId>UCYQo00czDdFJ3EnYxt2_SzA</yt:channelId>
+  <title>Claude never remembers your chat. Here's the trick</title>
+  <link rel="alternate" href="https://www.youtube.com/shorts/SmqtJ_jkqVE"/>
+  <author>
+   <name>ZazaG Dev</name>
+   <uri>https://www.youtube.com/channel/UCYQo00czDdFJ3EnYxt2_SzA</uri>
+  </author>
+  <published>2026-10-17T22:15:08+00:00</published>
+  <updated>2026-11-17T16:37:53+00:00</updated>
+  <media:group>
+   <media:title>Claude never remembers your chat. Here's the trick</media:title>
+   <media:content url="https://www.youtube.com/v/SmqtJ_jkqVE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/SmqtJ_jkqVE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>How AI works #1
+
+Prompt caching, explained on a chat window. Every message you send Claude resends the whole chat, and caching is why that stays cheap.
+
+All my links: https://linktr.ee/ZazaGDev
+
+#promptcaching #claudecode #ai</media:description>
+   <media:community>
+    <media:starRating count="6" average="5.00" min="1" max="5"/>
+    <media:statistics views="208"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:5-adl6hge0A</id>
+  <yt:videoId>5-adl6hge0A</yt:videoId>
+  <yt:channelId>UCYQo00czDdFJ3EnYxt2_SzA</yt:channelId>
+  <title>Every robot in this tavern is a Claude Code session  #solodev #gaming #buildinpublic #claudecode</title>
+  <link rel="alternate" href="https://www.youtube.com/shorts/5-adl6hge0A"/>
+  <author>
+   <name>ZazaG Dev</name>
+   <uri>https://www.youtube.com/channel/UCYQo00czDdFJ3EnYxt2_SzA</uri>
+  </author>
+  <published>2026-10-16T22:00:30+00:00</published>
+  <updated>2026-11-12T23:20:51+00:00</updated>
+  <media:group>
+   <media:title>Every robot in this tavern is a Claude Code session  #solodev #gaming #buildinpublic #claudecode</media:title>
+   <media:content url="https://www.youtube.com/v/5-adl6hge0A?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/5-adl6hge0A/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Every robot in my pixel-art tavern is a real Claude Code session, one for each project I'm working on. A robot writing at a table is working; the one sipping beer is idle.
+
+The full tour of the tavern is in the linked video.
+
+All my links: https://linktr.ee/ZazaGDev
+
+#claudecode #aiagents #pixelart</media:description>
+   <media:community>
+    <media:starRating count="14" average="5.00" min="1" max="5"/>
+    <media:statistics views="945"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:6kKdTCxHmkE</id>
+  <yt:videoId>6kKdTCxHmkE</yt:videoId>
+  <yt:channelId>UCYQo00czDdFJ3EnYxt2_SzA</yt:channelId>
+  <title>Hand-drawn floor plan to editable 3D house</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=6kKdTCxHmkE"/>
+  <author>
+   <name>ZazaG Dev</name>
+   <uri>https://www.youtube.com/channel/UCYQo00czDdFJ3EnYxt2_SzA</uri>
+  </author>
+  <published>2026-10-15T19:00:35+00:00</published>
+  <updated>2026-11-15T17:37:21+00:00</updated>
+  <media:group>
+   <media:title>Hand-drawn floor plan to editable 3D house</media:title>
+   <media:content url="https://www.youtube.com/v/6kKdTCxHmkE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/6kKdTCxHmkE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Fun projects #2
+
+Upload a photo of a floor plan, even one drawn with a pen on paper, and get a house you can edit in 2D and 3D. I built a house planner around that one twist and tested it on five real sketches.
+
+The 3D editor is built on the open-source Pascal Editor, and everything it makes stays editable: rescale the whole house from one wall, add furniture and more floors. It still has a lot of small bugs. If you would use it, tell me in the comments and I can open source it.
+
+All my links: https://linktr.ee/ZazaGDev
+
+#solodev #buildinpublic #floorplan
+
+0:00 The idea: a house planner that reads sketches
+0:42 Uploading the sketches
+1:26 How Claude finds the walls and the scale
+1:55 The first 2D results
+2:25 Each sketch beside its plan
+3:55 The first 3D house
+4:21 Rescaling from one wall
+4:41 Furniture
+5:02 Plan mode and more floors
+5:32 The complex sketch
+6:18 Rooms far too big
+6:47 The last one
+7:10 Bugs, and open sourcing it?</media:description>
+   <media:community>
+    <media:starRating count="14" average="5.00" min="1" max="5"/>
+    <media:statistics views="445"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:I0eweNou6HE</id>
+  <yt:videoId>I0eweNou6HE</yt:videoId>
+  <yt:channelId>UCYQo00czDdFJ3EnYxt2_SzA</yt:channelId>
+  <title>Is your Claude Code setup this big? #claudecode #solodev #aiagents</title>
+  <link rel="alternate" href="https://www.youtube.com/shorts/I0eweNou6HE"/>
+  <author>
+   <name>ZazaG Dev</name>
+   <uri>https://www.youtube.com/channel/UCYQo00czDdFJ3EnYxt2_SzA</uri>
+  </author>
+  <published>2026-10-15T00:00:25+00:00</published>
+  <updated>2026-11-14T20:11:43+00:00</updated>
+  <media:group>
+   <media:title>Is your Claude Code setup this big? #claudecode #solodev #aiagents</media:title>
+   <media:content url="https://www.youtube.com/v/I0eweNou6HE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/I0eweNou6HE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Map your own setup with the free prompt: https://github.com/ZazaGdev/AI-fun/blob/main/setup-map/prompt.md
+
+All my links: https://linktr.ee/ZazaGDev
+
+#claudecode #aicoding #threejs</media:description>
+   <media:community>
+    <media:starRating count="9" average="5.00" min="1" max="5"/>
+    <media:statistics views="226"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:5ZPqDhN-WgQ</id>
+  <yt:videoId>5ZPqDhN-WgQ</yt:videoId>
+  <yt:channelId>UCYQo00czDdFJ3EnYxt2_SzA</yt:channelId>
+  <title>My AI Agents are Coding in Tavern #solodev  #buildinpublic #claudecode #aiagents</title>
+  <link rel="alternate" href="https://www.youtube.com/shorts/5ZPqDhN-WgQ"/>
+  <author>
+   <name>ZazaG Dev</name>
+   <uri>https://www.youtube.com/channel/UCYQo00czDdFJ3EnYxt2_SzA</uri>
+  </author>
+  <published>2026-10-14T00:00:10+00:00</published>
+  <updated>2026-11-13T16:36:17+00:00</updated>
+  <media:group>
+   <media:title>My AI Agents are Coding in Tavern #solodev  #buildinpublic #claudecode #aiagents</media:title>
+   <media:content url="https://www.youtube.com/v/5ZPqDhN-WgQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/5ZPqDhN-WgQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>The robot heading for the bar is my Focus Timer agent, a real Claude Code session that should be coding. In my tavern, an agent with a beer is an idle one.
+
+The full tour of the tavern is in the linked video.
+
+All my links: https://linktr.ee/ZazaGDev
+
+#claudecode #aiagents #pixelart</media:description>
+   <media:community>
+    <media:starRating count="8" average="5.00" min="1" max="5"/>
+    <media:statistics views="200"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>
